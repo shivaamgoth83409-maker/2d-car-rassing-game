@@ -13,3 +13,19 @@ A 2D Car Racing Game is a simple racing game where the player controls a car on 
 🛑 Brake button
 📱 Mobile touch controls
 🎚️ Multiple levels
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- CSS here -->
+</head>
+
+<body>
+
+    <!-- Game screen here -->
+
+    <script>
+        // Complete JavaScript game here
+    </script>
+
+</body>
+</html>
